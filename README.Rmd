@@ -7,8 +7,7 @@ Homework 1 in STAT400: Computational Statistics @ CSU
 ### Part 1 - R & ggplot2
 The diamonds data set is part of the `ggplot2` package. You can access it via the following code
 
-
-```r
+```{r, eval=FALSE}
 # you might need to install the ggplot2 package first
 # install.packages("ggplot2")
 
