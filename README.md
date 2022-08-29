@@ -57,6 +57,8 @@ Turn in in a pdf of your analysis to canvas using the provided Rmd file as a tem
   
 3. Click the drop down and add "dsci445instructors" to your project.
 
+    <img src="share_dropdown.png" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" width="25%" />
+
 This is how you **receive points** for reproducibility on your homework!
 
 
